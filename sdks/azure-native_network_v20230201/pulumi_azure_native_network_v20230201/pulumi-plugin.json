@@ -1,0 +1,10 @@
+{
+  "resource": true,
+  "name": "azure-native",
+  "version": "3.5.1",
+  "parameterization": {
+    "name": "azure-native_network_v20230201",
+    "version": "3.5.1",
+    "value": "ZXlKdGIyUjFiR1VpT2lKdVpYUjNiM0pySWl3aWRtVnljMmx2YmlJNkluWXlNREl6TURJd01TSjk="
+  }
+}

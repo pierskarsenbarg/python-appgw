@@ -1,2 +1,3 @@
+sdks/azure-native_network_v20230201
 pulumi>=3.0.0,<4.0.0
 pulumi-azure-native==3.5.1

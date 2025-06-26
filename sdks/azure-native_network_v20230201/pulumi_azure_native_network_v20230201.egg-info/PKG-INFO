@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: pulumi_azure_native_network_v20230201
+Version: 3.5.1
+Summary: A specialized Pulumi Azure Native package for network v20230201
+License: Apache-2.0
+Project-URL: Homepage, https://pulumi.com
+Project-URL: Repository, https://github.com/pulumi/pulumi-azure-native
+Keywords: pulumi,azure,azure-native,category/cloud,kind/native
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: parver>=0.2.1
+Requires-Dist: pulumi<4.0.0,>=3.165.0
+Requires-Dist: semver>=2.8.1
+Requires-Dist: typing-extensions<5,>=4.11; python_version < "3.11"
